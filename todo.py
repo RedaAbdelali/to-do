@@ -2,7 +2,7 @@
 import os
 import json
 
-TASKS_FILE = "/home/redsec/Documents/Programming/PROJECTS/to-do/tasks.json"
+TASKS_FILE = "tasks.json"
 
 # Colors for black theme
 RESET = "\033[0m"
